@@ -1,0 +1,7 @@
+tmp
+input/*
+output/*
+api/output/*
+
+!input/README.txt
+!output/README.txt
